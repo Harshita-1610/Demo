@@ -1,4 +1,4 @@
 # Demo
-This is my 1st repository
+This is my 1st repository.
 1st change
 Author - Harshita Shah 
